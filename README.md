@@ -89,7 +89,11 @@ Requirement already satisfied: six>=1.5 in /home/desmond/.azure_devops_project/l
 
 ![Successful Run](./output_run_success.png)
 
-
+## Note
+If you get a Permission Denied error when trying to run the shell script, use this command to get through the issue
+```
+chmod +x make_predict_azure_app.sh
+```
 
 ## Enhancements
 
