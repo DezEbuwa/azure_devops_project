@@ -1,4 +1,5 @@
 # Azure Devops Project by Desmond Ebuwa
+[![Python application test with Github Actions](https://github.com/DezEbuwa/azure_devops_project/actions/workflows/main.yml/badge.svg)](https://github.com/DezEbuwa/azure_devops_project/actions/workflows/main.yml)
 
 Project for Agile Development with Azure
 ![Passing Github Actions](./passing_gh_action.png)
