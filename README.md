@@ -96,6 +96,8 @@ If you get a Permission Denied error when trying to run the shell script, use th
 chmod +x make_predict_azure_app.sh
 ```
 
+![Azure App Service](./azure_app_servicepng.png)
+
 ## Enhancements
 
 I think the biggest improvement to this demo would be to use fewer tools. Most every ttool needed is in Azure Devops. There is no reason to use Trello or excel. 
