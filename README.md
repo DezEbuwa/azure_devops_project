@@ -10,8 +10,8 @@ Project for Agile Development with Azure
 This project involves the setup and deployment of a web app using Azure Devops, Github, Azure Cloud Shell, Python, and some supporting tools. In the end you will have a functioning web application that you can run tests against and update using automation. 
 
 ## Project Plan
-* https://trello.com/invite/b/66aeaeca82e7f6812922f2a2/ATTIf58b3a5f5f9505ec41be2a64cae735b1A7DC4277/azuredevopsproject
-* https://docs.google.com/spreadsheets/d/1-G759TPuaPf2eVXYCO-W9VpOprBsu_b8Giy68L7vMLs/edit?usp=sharing
+* [Trello Board](https://trello.com/b/qelNtZza/azuredevopsproject)
+* [Project Schedule](https://docs.google.com/spreadsheets/d/1-G759TPuaPf2eVXYCO-W9VpOprBsu_b8Giy68L7vMLs/edit?usp=sharing)
 
 ## Instructions
 
